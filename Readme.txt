@@ -35,3 +35,8 @@ pip install openpyxl  --- needed to open in excel sheet
 makeflies.sh --- this file makes dummy files
 to run this file use --sh makefiles.sh      
 it will make 10 Dummy files to check the code
+
+-----------------------------------------------------------
+IMP----
+add the path in code1.py and code2.py
+
